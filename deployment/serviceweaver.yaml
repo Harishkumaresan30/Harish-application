@@ -1,0 +1,7 @@
+components:
+  - name: InventoryManagement
+    deployment: monolith
+  - name: OrderProcessing
+    deployment: monolith
+  - name: Analytics
+    deployment: monolith
